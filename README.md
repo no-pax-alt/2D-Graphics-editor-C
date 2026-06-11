@@ -28,6 +28,8 @@ The canvas is initialized using '_' characters and graphical objects are drawn u
 * main.c
 * graphics.c
 * graphics.h
+* prompt 2D Graphics.txt
+* walkthrough.md
 
 ## Compilation
 
